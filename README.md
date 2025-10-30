@@ -85,9 +85,8 @@ This project helps recruitment firms and analysts explore hiring trends, job typ
 ```bash
 job-market-analytics-pipeline/
 │
-├── data/                # Raw job data files (CSV / Excel)
-├── scripts/             # Python ETL and MySQL upload scripts
-├── powerbi/             # Power BI .pbix and M-code transformations
-├── notebooks/           # Jupyter Notebooks for exploration
-├── docs/                # Documentation and reports
-└── README.md            # Project overview (this file)
+├── data2/ # 📊 Raw job data files (CSV)
+├── project objectives/ # 🎯 Problem statement files (PDF)
+├── transformation/ # ⚙️ DAX, M-code transformations & Python ETL scripts
+├── visualization/ # 📈 Power BI (.pbix) dashboards
+└── README.md # 📝 Project overview (this file)
